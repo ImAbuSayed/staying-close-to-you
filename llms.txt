@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/staying-close-to-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Staying Close To You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/staying-close-to-you/) |
+| **Get License** | [Commercial Licensing for Staying Close To You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/staying-close-to-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2209)
 
 ---
 
