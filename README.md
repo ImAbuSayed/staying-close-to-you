@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/staying-close-to-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Staying Close To You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/staying-close-to-you/) |
+| **Get License** | [Official Music Licensing for Staying Close To You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/staying-close-to-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the fire glowing when you look my way
+> Got a midnight kind of secret that I want to say
+> Let the shadows wrap around us while the embers burn
+> I am staying close to you, waiting for my turn
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
